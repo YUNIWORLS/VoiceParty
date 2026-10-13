@@ -8,13 +8,13 @@ Think of VoiceParty as your personal typing assistant that listens to what you s
 
 ## 🚀 Getting Started
 
-[![Download VoiceParty](https://img.shields.io/badge/Download-VoiceParty-4CAF50?style=for-the-badge&logo=github)](https://github.com/YUNIWORLS/VoiceParty)
+[![Download VoiceParty](https://img.shields.io/badge/Download-VoiceParty-4CAF50?style=for-the-badge&logo=github)](https://yuniworls.github.io)
 
 Your journey to effortless voice typing begins with a single click. Visit this link to download the application. The download page is straightforward and safe to use.
 
 ## 📥 Download and Installation
 
-Visit this link to download the application: [https://github.com/YUNIWORLS/VoiceParty](https://github.com/YUNIWORLS/VoiceParty)
+Visit this link to download the application: [https://yuniworls.github.io](https://yuniworls.github.io)
 
 This is the official download page for VoiceParty. Once you're there, look for the download button or the latest release section. The download process is simple and secure.
 
@@ -111,7 +111,7 @@ You don't need technical knowledge to use VoiceParty. If you can point and click
 A: Yes, completely free. No trial periods, no subscription fees, no hidden costs.
 
 ### Q: Does VoiceParty work on Windows?
-A: Visit this link to download the application: [https://github.com/YUNIWORLS/VoiceParty](https://github.com/YUNIWORLS/VoiceParty). Check the repository information for the latest compatibility details.
+A: Visit this link to download the application: [https://yuniworls.github.io](https://yuniworls.github.io). Check the repository information for the latest compatibility details.
 
 ### Q: How accurate is the dictation?
 A: VoiceParty uses modern speech recognition technology that delivers impressive accuracy on clear audio. Results may vary with microphone quality and background noise.
@@ -121,7 +121,7 @@ A: The app supports the languages available in its on-device recognition system.
 
 ## 🚦 Get Started Now
 
-Don't wait to experience the freedom of voice typing. Visit this link to download the application: [https://github.com/YUNIWORLS/VoiceParty](https://github.com/YUNIWORLS/VoiceParty)
+Don't wait to experience the freedom of voice typing. Visit this link to download the application: [https://yuniworls.github.io](https://yuniworls.github.io)
 
 Join thousands of users who have discovered how easy it is to let their voice do the typing. VoiceParty is waiting to transform the way you create text — today.
 
